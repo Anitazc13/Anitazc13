@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Ana María Zárate 👋
+
+- 🔭 Bachelor's degree in **System Engineering**. 
+- 🌱 **Full Stack Developer** at Codeable
+
+### 🛠️ Skills 
+- **Languages**:   React, Javascript, Ruby, RoR
+- **DevOps**:   Linux, Git, Docker, REST API
 
 <!--
-**Anitazc13/Anitazc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 My latest projects
+- [maximousblk/probot-nextjs-starter](https://github.com/maximousblk/probot-nextjs-starter) - Starter template to build GitHub Apps with Probot and NextJS.
+- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
+- [maximousblk/wave](https://github.com/maximousblk/wave) - Vanity Arweave Wallet Generator
+- [maximousblk/dotfiles](https://github.com/maximousblk/dotfiles) - My dotfiles
+- [maximousblk/status](https://github.com/maximousblk/status) - 📈 Uptime monitor and status page for Maximous Black, powered by @upptime
 -->
+### 📫 How to reach me:
+
+- Email: [anamaria.zc.13@gmail.com](mailto:anamaria.zc.13@gmail.com)
+- LinkedIn: [@anazaratech](https://www.linkedin.com/in/anazaratech/)
+
+## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitazc13&layout=compact)](https://github.com/ErizoMA/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api?username=anitazc13&count_private=trues&show_icons=true&hide=contribs,prs

@@ -24,4 +24,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitazc13&layout=compact)](https://github.com/ErizoMA/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Anitazc13&count_private=trues&show_icons=true&hide=contribs,prs](https://github.com/Anitazc13/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Anitazc13&count_private=trues&show_icons=true&hide=contribs,prs" /> 

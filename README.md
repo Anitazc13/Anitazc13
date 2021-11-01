@@ -4,7 +4,7 @@
 - 🌱 **Full Stack Developer** at Codeable
 
 ### 🛠️ Skills 
-- **Languages**:  Javascript, Ruby, C++, SQL
+- **Languages**:  Javascript, Ruby, C++, SQL, VBA
 - **DevOps**:   Linux, Git, Docker, REST API
 
 <!--

@@ -4,7 +4,7 @@
 - 🌱 **Full Stack Developer** at Codeable
 
 ### 🛠️ Skills 
-- **Languages**:   React, Javascript, Ruby, RoR
+- **Languages**:  Javascript, Ruby, C++, SQL
 - **DevOps**:   Linux, Git, Docker, REST API
 
 <!--
@@ -24,4 +24,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anitazc13&layout=compact)](https://github.com/ErizoMA/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=anitazc13&count_private=trues&show_icons=true&hide=contribs,prs
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Anitazc13&count_private=trues&show_icons=true&hide=contribs,prs](https://github.com/Anitazc13/github-readme-stats)

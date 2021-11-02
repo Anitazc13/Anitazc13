@@ -22,5 +22,5 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="center"> <img style={width=20px,height=20px} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anitazc13&layout=compact" alt="Anitazc13" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anitazc13&count_private=trues&show_icons=true&hide=contribs,prs" alt="Anitazc13" />
+<img style={width=20px,height=20px} src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anitazc13&layout=compact" alt="Anitazc13" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anitazc13&count_private=trues&show_icons=true&hide=contribs,prs" alt="Anitazc13" />
